@@ -71,20 +71,12 @@ Why Random Forest?
 - **NumPy**
 - **Scikit-learn**
 
+
 ---
 
-## ▶️ How to Run Locally
+## 🌐 Live Demo of Dashboard 
+https://personalized-healthcare-recommendations-35fpphtqe3p2wxftycxkvo.streamlit.app/
 
-1️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
-## 🌐 Live Demo
-
-
-*(Replace with your actual deployment URL)*
 ## 🎯 Learning Outcomes
 
 This project demonstrates practical understanding of:
@@ -102,4 +94,5 @@ This project demonstrates practical understanding of:
 
 **Meenakshi Thombare**  
 Machine Learning & Data Analytics  
+
 
